@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Samueljr-web/samueljr-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Samueljr-web/samueljr-web** 
+<h2>am Samuel, a front End developer</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+###tools and technologies
+<ul>
+<li>Html</li>
+<li>Css</li>
+<li>JavaScript</li>
+<li>Jquery</li>
+<li>bootstrap</li>
+<li>Reactjs</li>
+**
+<li>git</li>
+<li>npm</li>
+</ul>
+</div>
