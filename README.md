@@ -4,7 +4,7 @@
 <h2>am Samuel, a front End developer</h2>
 
 <div>
-###tools and technologies
+<h3>tools and technologies</h3>
 <ul>
 <li>Html</li>
 <li>Css</li>
