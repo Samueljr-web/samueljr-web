@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋!
 
-**Samueljr-web/samueljr-web** 
 <h2>am Samuel, a front End developer</h2>
 
 <div>
@@ -16,4 +15,8 @@
 <li>git</li>
 <li>npm</li>
 </ul>
+</div>
+
+<div>
+<a href="devsamuel.netlify.app">portfolio website</a>
 </div>
