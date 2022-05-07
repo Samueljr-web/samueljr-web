@@ -1,4 +1,4 @@
-##### . 👋 Hi, I’m Samuel Adyemi
+##### . 👋 Hi, I’m Samuel Adeyemi
 
 ##### . 👀 I’m a Frontend Developer
 
