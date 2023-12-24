@@ -14,7 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samueljr-web&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Samueljr-web&langs_count=5&theme=tokyonight)]()
 
 ![](https://komarev.com/ghpvc/?username=Samueljr-web&color=blue)
 
