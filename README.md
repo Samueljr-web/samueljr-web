@@ -10,9 +10,16 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samueljr-web&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Samueljr-web&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samueljr-web&theme=dark)](https://git.io/streak-stats)
+<div style="display: flex; height: 70px;">
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samueljr-web&layout=compact&theme=tokyonight)<br>
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Samueljr-web&count_private=true&theme=tokyonight&showicons=true)]() 
+
+</div>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samueljr-web&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Samueljr-web&color=blue)
