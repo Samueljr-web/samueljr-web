@@ -13,7 +13,7 @@
 
 <div style="display: flex; height: 70px;">
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samueljr-web&layout=compact&theme=tokyonight)<br>
+ ![Top Langs](https://readme-stats-one-kohl.vercel.app/api/top-langs/?username=Samueljr-web&layout=compact&theme=tokyonight)<br>
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Samueljr-web&count_private=true&theme=tokyonight&showicons=true)]() 
 
 </div>
