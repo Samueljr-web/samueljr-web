@@ -1,11 +1,5 @@
 ##### . 👋 Hi, I’m Samuel Adeyemi
 
-##### . 👀 I’m a Frontend Developer
-
-##### . 🌱 I’m currently Learning Nodejs
-
-##### . 💞️ I’m looking to collaborate on any project using Reactjs/Nextjs
-
 ##### . 📫 How to reach me samueladeyemi.me@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Samueljr-web&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
