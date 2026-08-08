@@ -7,7 +7,7 @@ I'm a Software Engineer focused on designing, building, and maintaining producti
 
 
 
-##### . 📫 How to reach me samueladeyemi.me@gmail.com
+##### . 📫 How to reach me hello@samueladeyemi.me
 
 <div style="display: flex; height: 70px;">
  
